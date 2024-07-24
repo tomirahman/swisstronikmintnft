@@ -1,1 +1,1 @@
-swisstronik mint nft
+swisstronik mint nft prc20
